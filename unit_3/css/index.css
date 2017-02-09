@@ -1,0 +1,39 @@
+body {
+	background-color: #F5F5DC;
+	text-align: center;
+}
+h1 {
+	font-family: cursive;
+	font-size: 60px;
+	font-style: bold;
+	font-weight: 500;
+	color:#000000;
+	
+}
+hr {
+	color:#000000;
+	height: : 15px;
+}
+p {
+	font-family: helvetica;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 300;
+	color: #000000;
+
+}
+ul {
+	list-style-type: square;
+	list-style-position: center;
+	margin: 0;
+	padding:0;
+}
+li {
+	list-style-position: inside;
+	font-family:helvetica;
+	font-style:bold;
+	font-size:30px;
+	font-weight:400px;
+	color:#000000;
+}
+
